@@ -15,11 +15,6 @@ oj-prepare [URL]
 - テスト実行
 
 ```
-
 oj test -c 'python main.py' -t 2
-
-```
-
-```
 
 ```
