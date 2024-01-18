@@ -1,0 +1,11 @@
+
+
+# Include main.py in each directory
+
+# Ignore all files
+*.in
+*.out
+*.cpp
+generate.py
+oj
+test/
